@@ -1,0 +1,12 @@
+{
+  "discord": {
+    "client_id": "",
+    "client_secret": "",
+    "reveal_token": "",
+    "channel": "general"
+  },
+  "telegram": {
+    "chat_id": "",
+    "bot_token": ""
+  }
+}

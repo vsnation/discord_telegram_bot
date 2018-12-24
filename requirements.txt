@@ -1,0 +1,4 @@
+discord.py==0.16.12
+python_telegram_bot==11.1.0
+discord==0.0.2
+telegram==0.0.1
